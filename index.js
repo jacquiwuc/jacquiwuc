@@ -8,19 +8,13 @@ function generateProgressBar() {
     const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
     const passedProgressBar = Array.from({length: passedProgressBarIndex}, _ => '█')
     const leftProgressBar = Array.from({length: progressBarCapacity - passedProgressBarIndex}, _ => '▁')
+    return `{${passedProgressBar.concat(leftProgressBar).join('')}}`
     return `{ ${passedProgressBar.concat(leftProgressBar).join('')} }`
-    const progressBar = Array(progressBarCapacity)
-        .fill('▁')
-        .map((value, index) => index < passedProgressBarIndex ? '█' : value)
-        .join('')
-    return `{ ${progressBar} }`
 }
 
 const readme = `\
 ### Hi there 👋
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
----
-⏰ Updated on ${new Date().toUTCString()}
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)\
+⏰ Updated on ${new Date().toUTCString()} \
 `
 console.log(readme)
