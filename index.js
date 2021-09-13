@@ -29,7 +29,7 @@ I'm Jacqui, living and working in Auckland, New Zealand.
 
 
 ---
-<a href="https://www.buymeacoffee.com/frostming"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=frostming&button_colour=b2f0ec&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00"></a>
+<a href="https://www.buymeacoffee.com/jacquiwuc"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=frostming&button_colour=b2f0ec&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 `
 console.log(readme)
