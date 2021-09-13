@@ -6,6 +6,6 @@ I'm Jacqui, living and working in Auckland, New Zealand.
      - [LinkedIn](https://www.linkedin.com/in/jacqui-wu/) 
      - [Twitter](https://twitter.com/AklJacqui)
 ---
-⏳ Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 69.90 %
+⏳ Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 69.94 %
 
-⏰ Updated on Mon, 13 Sep 2021 02:53:02 GMT
+⏰ Updated on Mon, 13 Sep 2021 06:22:43 GMT
