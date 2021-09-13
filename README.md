@@ -6,9 +6,9 @@ I'm Jacqui, living and working in Auckland, New Zealand.
      - [LinkedIn](https://www.linkedin.com/in/jacqui-wu/) 
      - [Twitter](https://twitter.com/AklJacqui)
 ---
-⏳ Year progress { █████████████████████▁▁▁▁▁▁▁▁▁ } 70.07 %
+⏳ Year progress { █████████████████████▁▁▁▁▁▁▁▁▁ } 70.11 %
 
-⏰ Updated on Mon, 13 Sep 2021 18:23:00 GMT
-
+⏰ Updated on Mon, 13 Sep 2021 21:24:45 GMT
 <a href="https://www.buymeacoffee.com/frostming"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=frostming&button_colour=b2f0ec&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00"></a>
+
 
