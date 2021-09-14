@@ -9,7 +9,7 @@ I'm Jacqui, living and working in Auckland, New Zealand.
 ---
 ⏳ Year progress { █████████████████████▁▁▁▁▁▁▁▁▁ } 70.25 %
 
-⏰ Updated on Tue, 14 Sep 2021 09:50:46 GMT
+⏰ Updated on Tue Sep 14 2021 21:58:00 GMT+0000 (Coordinated Universal Time)
 
 ---
 <a href="https://www.buymeacoffee.com/jacquiwuc"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=jacquiwuc&button_colour=b2f0ec&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00"></a>
