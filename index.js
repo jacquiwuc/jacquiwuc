@@ -76,6 +76,7 @@ const addNewZealandDaylightSavings = (dte) => {
 	}
 	return addHours(dte, daylightHours);
 };
+
 const readme = `\
 ### Hi there 👋
 I'm Jacqui, living and working in Auckland, New Zealand.
@@ -85,10 +86,12 @@ I'm Jacqui, living and working in Auckland, New Zealand.
 - 📫 How to reach me: 
      - [LinkedIn](https://www.linkedin.com/in/jacqui-wu/) 
      - [Twitter](https://twitter.com/AklJacqui)
+     
 ---
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 ⏰ Updated on ${console.log(toNewZealand(new Date().getTime()).toString())}\
 ⏰ Updated on ${(toNewZealand(new Date().getTime()).toString())}\
+
 ---
 <a href="https://www.buymeacoffee.com/jacquiwuc"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=jacquiwuc&button_colour=b2f0ec&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00"></a>
 `
