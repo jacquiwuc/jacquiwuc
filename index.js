@@ -25,7 +25,7 @@ I'm Jacqui, living and working in Auckland, New Zealand.
 ---
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
-⏰ Updated on ${new Date().toLocaleString([], {year: 'numeric', month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit', hourCycle: 'h12'})}\
+⏰ Updated on ${new Date().toLocaleString([], {year: 'numeric', month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit', hourCycle: 'h12', timezone:'NZST'})}\
 
 
 ---
