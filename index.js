@@ -13,6 +13,79 @@ function generateProgressBar() {
     return `{ ${progressBar} }`
 }
 
+//the below line should always output the current DateTime in New Zealand, replace the argument with any epoch milliseconds and it should still always give you the correct time.
+const UTCFromMS = (ms) => {
+  return new Date(new Date(ms).toUTCString().replace(" GMT", ""))
+};
+
+const addHours = (dte, hrs) => {
+		return new Date(
+			dte.getFullYear(),
+			dte.getMonth(),
+			dte.getDate(),
+			dte.getHours() + hrs,
+			dte.getMinutes(),
+			dte.getMilliseconds()
+		);
+};
+
+const toNewZealand = (ms) => {
+		return addNewZealandDaylightSavings(UTCFromMS(ms));
+};
+
+const getPreviousSunday = (dte) => {
+	return new Date(
+		dte.getFullYear(),
+		dte.getMonth(),
+		dte.getDate() - dte.getDay(),
+		1,
+		0,
+		0
+	);
+};
+
+const getNextSunday = (dte) => {
+	return new Date(
+		dte.getFullYear(),
+		dte.getMonth(),
+		dte.getDay() === 0 ? dte.getDate() : dte.getDate() + (7 - dte.getDay()),
+		1,
+		0,
+		0
+	)
+};
+
+const standardHours = 12;
+const daylightHours = 13;
+const addNewZealandDaylightSavings = (dte) => {
+	const lastSundaySeptember = getPreviousSunday(
+		new Date(dte.getFullYear(), 8, 30)
+	);
+
+	const firstSundayApril = getNextSunday(
+			new Date(dte.getFullYear(), 3, 1)
+	);
+
+	// If its before firstSundayApril, add 13, if we went over 1am, add 12.
+	if(dte <= firstSundayApril) {
+		const daylightNz = addHours(dte, daylightHours);
+		if(daylightNz >= firstSundayApril) {
+			return addHours(dte, standardHours);
+		}
+		return daylightNz
+	}
+
+	// if its before lastSundaySeptember, add 12 if we went over 1am add 13.
+	if(dte <= lastSundaySeptember) {
+		const standardNz = addHours(dte, standardHours);
+		if(standardNz >= lastSundaySeptember) {
+			return addHours(dte, daylightHours);
+		}
+		return standardNz;
+	}
+	return addHours(dte, daylightHours);
+};
+
 const readme = `\
 ### Hi there 👋
 I'm Jacqui, living and working in Auckland, New Zealand.
@@ -25,7 +98,7 @@ I'm Jacqui, living and working in Auckland, New Zealand.
 ---
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
-⏰ Updated on ${new Date().toUTCString()}\
+⏰ Updated on ${toNewZealand(new Date().getTime()).toString()}\
 
 
 ---
