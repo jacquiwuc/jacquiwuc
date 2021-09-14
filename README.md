@@ -1,3 +1,4 @@
+Tue Sep 14 2021 22:06:00 GMT+0000 (Coordinated Universal Time)
 ### Hi there 👋
 I'm Jacqui, living and working in Auckland, New Zealand.
 - ☕ I’m currently working at Online Republic, a global travel e-commerce group operating online price comparison and booking services, is acquired by Australasia’s largest online travel agency: Webjet Limited.
@@ -9,7 +10,7 @@ I'm Jacqui, living and working in Auckland, New Zealand.
 ---
 ⏳ Year progress { █████████████████████▁▁▁▁▁▁▁▁▁ } 70.25 %
 
-⏰ Updated on Tue Sep 14 2021 22:05:00 GMT+0000 (Coordinated Universal Time)
+⏰ Updated on undefined
 
 ---
 <a href="https://www.buymeacoffee.com/jacquiwuc"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=jacquiwuc&button_colour=b2f0ec&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00"></a>
