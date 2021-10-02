@@ -7,16 +7,11 @@ I'm Jacqui, living and working in Auckland, New Zealand.
      - [LinkedIn](https://www.linkedin.com/in/jacqui-wu/) 
      - [Twitter](https://twitter.com/AklJacqui)
 
-
-My Github Contributions
-![](https://raw.githubusercontent.com/jacquiwuc/jacquiwuc/main/assets/github-contribution-grid-snake.svg) 
-
-⏳ Year progress { ██████████████████████▁▁▁▁▁▁▁▁ } 75.08 %
+⏳ Year progress { ██████████████████████▁▁▁▁▁▁▁▁ } 75.21 %
 
 ---
 
-⏰ Updated on Sat, 02 Oct 2021 00:48:39 GMT
+⏰ Updated on Sat, 02 Oct 2021 12:21:24 GMT
 ![Progress Bar CI](https://github.com/jacquiwuc/jacquiwuc/workflows/Progress%20Bar%20CI/badge.svg)
 
-             
 <a href="https://www.buymeacoffee.com/jacquiwuc"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=jacquiwuc&button_colour=b2f0ec&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00"></a>
