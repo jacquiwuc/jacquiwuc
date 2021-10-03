@@ -23,6 +23,12 @@ I'm Jacqui, living and working in Auckland, New Zealand.
 - 📫 How to reach me: 
      - [LinkedIn](https://www.linkedin.com/in/jacqui-wu/) 
      - [Twitter](https://twitter.com/AklJacqui)
+ 
+---
+### My GitHub Contributions    
+
+![](https://raw.githubusercontent.com/phh95/phh95/main/assets/github-contribution-grid-snake.svg)
+
 
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
