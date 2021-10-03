@@ -29,10 +29,8 @@ I'm Jacqui, living and working in Auckland, New Zealand.
 
 ![](https://raw.githubusercontent.com/phh95/phh95/main/assets/github-contribution-grid-snake.svg)
 
-
-⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
-
 ---
+⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
 ⏰ Updated on ${new Date().toUTCString()}
 ![Progress Bar CI](https://github.com/jacquiwuc/jacquiwuc/workflows/Progress%20Bar%20CI/badge.svg)
