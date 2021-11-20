@@ -16,7 +16,7 @@ function generateProgressBar() {
 
 const readme = `\
 ### Hi there 👋
-I'm Jacqui, living and working in Auckland, New Zealand.
+I'm Jacqui, a Data Engineer living and working in Auckland, New Zealand.
 - ☕ I’m currently working at GoSee, a global travel e-commerce group operating online price comparison and booking services, is acquired by Australasia’s largest online travel agency: Webjet Limited.
 - 💻 Working: build a cloud data analytics infrastructure, using AWS, Snowflake, Terraform, DBT etc
 - 🌱 My blog: https://jacquiwu.com/
