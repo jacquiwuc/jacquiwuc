@@ -17,8 +17,8 @@ function generateProgressBar() {
 const readme = `\
 ### Hi there 👋
 I'm Jacqui, a Data Engineer living and working in Auckland, New Zealand.
-- ☕ I’m currently working at GoSee, a global travel e-commerce group operating online price comparison and booking services, is acquired by Australasia’s largest online travel agency: Webjet Limited.
-- 💻 Working: build a cloud data analytics infrastructure, using AWS, Snowflake, Terraform, DBT etc
+- ☕ I’m currently working at Bank of New Zealand. It was founded in 1861 and has been an integral part of New Zealand life ever since. Today the bank employs over 5,000 people in New Zealand; works with Personal, Business, Agri and Private Wealth clients; and has 180 branches and Partners'centres across NZ.
+- 💻 Previous project: build a cloud data analytics infrastructure, using AWS, Snowflake, Terraform, DBT etc
 - 🌱 My blog: https://jacquiwu.com/
 - 📫 How to reach me: 
      - [LinkedIn](https://www.linkedin.com/in/jacqui-wu/) 
