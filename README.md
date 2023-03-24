@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Jacqui, a Data Engineer living and working in Auckland, New Zealand.
-- ☕ I’m currently working at Bank of New Zealand. It was founded in 1861 and has been an integral part of New Zealand life ever since.
+- ☕ I’m currently working in banking as a data engineer.
 - 💻 Current stack: Big Data stack, e.g., Hadoop, Impala, Spark, SAS, Airflow etc
 - 💻 Previous project: build a cloud data analytics infrastructure, using AWS, Snowflake, Terraform, DBT etc
 - 📫 How to reach me: 
@@ -13,9 +13,9 @@ I'm Jacqui, a Data Engineer living and working in Auckland, New Zealand.
 ![](https://raw.githubusercontent.com/phh95/phh95/main/assets/github-contribution-grid-snake.svg)
 
 ---
-⏳ Year progress { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 22.48 %
+⏳ Year progress { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 22.58 %
 
-⏰ Updated on Fri, 24 Mar 2023 01:07:51 GMT
+⏰ Updated on Fri, 24 Mar 2023 09:55:24 GMT
 ![Progress Bar CI](https://github.com/jacquiwuc/jacquiwuc/workflows/Progress%20Bar%20CI/badge.svg)
 
 
