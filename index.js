@@ -22,7 +22,6 @@ I'm Jacqui, a Data Engineer living and working in Auckland, New Zealand.
 - 💻 Previous project: build a cloud data analytics infrastructure, using AWS, Snowflake, Terraform, DBT etc
 - 📫 How to reach me: 
      - [LinkedIn](https://www.linkedin.com/in/jacqui-wu/) 
-     - [Twitter](https://twitter.com/AklJacqui)
  
 ---
 ### My GitHub Contributions    
