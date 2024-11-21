@@ -28,7 +28,6 @@ I'm Jacqui, a Data Engineer living and working in Auckland, New Zealand.
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
 ⏰ Updated on ${new Date().toUTCString()}
-![Progress Bar CI]
 
 `
 console.log(readme)
