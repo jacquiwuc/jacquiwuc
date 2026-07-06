@@ -8,8 +8,8 @@ I'm Jacqui, a Data Engineer living and working in Auckland, New Zealand.
  
 
 ---
-⏳ Year progress { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 50.84 %
+⏳ Year progress { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 51.00 %
 
-⏰ Updated on Sun, 05 Jul 2026 13:38:03 GMT
+⏰ Updated on Mon, 06 Jul 2026 03:31:22 GMT
 
 
